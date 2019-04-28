@@ -2,8 +2,8 @@
 
 『かげぴったん』は2019年3月16-17日に開催された【未来の福岡の運動会】で制作された種目です。
 
-[![未来の福岡の運動会](https://img.youtube.com/vi/gOzXL_HBkOA/0.jpg)](https://www.youtube.com/watch?v=gOzXL_HBkOA&t=52)  
-（NaoChannel様のYoutubeより。52-58秒がかげぴったんの競技風景です。NaoChannnel様ありがとうございます！）
+[かげぴったんの競技風景](https://www.youtube.com/watch?v=gOzXL_HBkOA&t=52)(52-58秒)  
+（NaoChannel様のYoutubeより。NaoChannnel様ありがとうございます！）
 
 このリポジトリは『かげぴったん』を公開するためのリポジトリです。  
 制作に使用したUnityプロジェクトとビルド済みのパッケージを公開しています。  
