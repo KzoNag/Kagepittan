@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 817a6a28e584cd840a9cb95bbad4b035, type: 3}
+  m_Name: config
+  m_EditorClassIdentifier: 
+  config:
+    camera:
+      index: 0
+      flip: 0
+      offset:
+        m_Left: 0
+        m_Right: 0
+        m_Top: 80
+        m_Bottom: 30
+    game:
+      excessRate: 0.15
+      goalRate: 0.5
+    imageProcess:
+      maskThreshold: 40
+      maskMaxVal: 255
+      smoothIterationCount: 1

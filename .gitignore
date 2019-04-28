@@ -34,3 +34,7 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+Assets/OpenCV+Unity.meta
+Assets/OpenCV+Unity/
+Assets/Sounds/correct1.wav.meta
+Assets/Sounds/correct1.wav
